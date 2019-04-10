@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'The Queen turned crimson with fury , and , after glaring at her for a moment like a wild beast , screamed Off with her head !',
+      'The Queen turned crimson with fury , and , after glaring at her for a moment like a wild beast , screamed 'Off with her head !'',
   'example2':
       'After receiving a very indifferent education she is left in Mrs . Goddard's hands to shift as she can ;-- to move , in short , in Mrs . Goddard's line , to have Mrs . Goddard's acquaintance .',
   'example3':
