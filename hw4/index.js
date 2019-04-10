@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
   'example4':
-      'She laid her golden head upon her lover's breast and sobbed bitterly, as if with a prescience of the cruel fate that overshadowed her fair young life.'
+      'It issued from among the trees near the front door. It was speaking sharply, impatiently.'
 };
 
 function status(statusText) {
