@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'The Queen turned crimson with fury , and , after glaring at her for a moment like a wild beast , screamed 'Off with her head !'',
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'After receiving a very indifferent education she is left in Mrs . Goddard's hands to shift as she can ;-- to move , in short , in Mrs . Goddard's line , to have Mrs . Goddard's acquaintance .',
+      'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Then are our Beggers bodies ; and our Monarchs and out - stretcht Heroes the Beggers Shadowes : shall wee to th Court : for , by my fey I cannot reason ?',
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
   'example4':
-      'But close as Flambeau was to the house , he heard the words of his colleagues by the wall , and repeated them in a low voice .'
+      'It issued from among the trees near the front door. It was speaking sharply, impatiently.'
 };
 
 function status(statusText) {
